@@ -1,0 +1,38 @@
+{
+  "title": "Human Writing",
+  "mode": "实际脚本输出排版 · 人工改稿示例",
+  "notes": "执行仓库 check_prose.py，按实际 stdout 排版为终端动画；改稿为人工示例，检查器不会自动改文。",
+  "source": "work/demo-production/captures/human-writing",
+  "capture_date": "2026-10-10",
+  "editorial_effects": [
+    "browser frame",
+    "startup reveal",
+    "camera focus",
+    "click cue",
+    "captions",
+    "loop"
+  ],
+  "timing": "剪辑后的展示节奏，不代表真实处理耗时",
+  "steps": [
+    {
+      "capture": "01-start.png",
+      "action": "启动检查器",
+      "caption": "运行 check_prose.py 检查示例稿"
+    },
+    {
+      "capture": "02-check.png",
+      "action": "定位问题",
+      "caption": "脚本标记硬停词与黑话"
+    },
+    {
+      "capture": "03-revise.png",
+      "action": "人工改写",
+      "caption": "按检查结果整理成清楚的表达"
+    },
+    {
+      "capture": "04-pass.png",
+      "action": "重新检查",
+      "caption": "运行复检，查看检查器覆盖的结果"
+    }
+  ]
+}
