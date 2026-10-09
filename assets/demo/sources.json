@@ -1,0 +1,23 @@
+{
+  "title": "活人感写作",
+  "duration_seconds": 9,
+  "fps": 8,
+  "scenes": [
+    {
+      "scene": "创作与改稿",
+      "source": "SKILL.md",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "写作规则",
+      "source": "SKILL.md",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "安装与使用",
+      "source": "README.md",
+      "type": "repository content walkthrough"
+    }
+  ],
+  "note": "Existing repository material; no live model calls or production availability claim."
+}
