@@ -1,0 +1,22 @@
+{
+  "title": "活人感写作",
+  "type": "操作流程示意，非实机录屏",
+  "steps": [
+    {
+      "action": "提供题目或原稿",
+      "description": "说明读者、目标与篇幅"
+    },
+    {
+      "action": "选择写作场景",
+      "description": "读取对应 references 规则"
+    },
+    {
+      "action": "创作或修改",
+      "description": "按要求完成稿件"
+    },
+    {
+      "action": "运行文稿检查",
+      "description": "使用 check_prose.py 检查表达"
+    }
+  ]
+}
